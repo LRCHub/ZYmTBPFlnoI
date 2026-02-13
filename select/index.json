@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Stargazer",
+  "base_artist": "NELKE",
+  "createdAt": "2026-02-13T23:18:40.080560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "The Zephyrs",
+      "has_synced": false,
+      "path": "select/01_Stargazer_The_Zephyrs.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/02_Stargazer_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/03_Stargazer_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/04_Stargazer_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "American Hi-Fi",
+      "has_synced": false,
+      "path": "select/05_Stargazer_American_Hi-Fi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Paloma Faith",
+      "has_synced": false,
+      "path": "select/06_Stargazer_Paloma_Faith.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Kingdom Come",
+      "has_synced": true,
+      "path": "select/07_Stargazer_Kingdom_Come.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/08_Stargazer_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stargazer - Los Angeles Mix",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/09_Stargazer_-_Los_Angeles_Mix_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stargazer (Los Angeles Mix)",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/10_Stargazer_(Los_Angeles_Mix)_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stargazer - New York Mix",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/11_Stargazer_-_New_York_Mix_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stargazer (New York Mix)",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/12_Stargazer_(New_York_Mix)_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stargazer - Pirate Sound Tour Rehearsal",
+      "artist": "Rainbow",
+      "has_synced": false,
+      "path": "select/13_Stargazer_-_Pirate_Sound_Tour_Rehearsal_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stargazer (Pirate Sound Tour Rehearsal)",
+      "artist": "Rainbow",
+      "has_synced": false,
+      "path": "select/14_Stargazer_(Pirate_Sound_Tour_Rehearsal)_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stargazer - Rough Mix",
+      "artist": "Rainbow",
+      "has_synced": false,
+      "path": "select/15_Stargazer_-_Rough_Mix_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stargazer (Rough Mix)",
+      "artist": "Rainbow",
+      "has_synced": false,
+      "path": "select/16_Stargazer_(Rough_Mix)_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stargazer",
+      "artist": "Peter Brown",
+      "has_synced": false,
+      "path": "select/17_Stargazer_Peter_Brown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stargazer",
+      "artist": "NELKE",
+      "has_synced": false,
+      "path": "select/pl_01_Stargazer_NELKE.txt"
+    }
+  ]
+}
